@@ -1,0 +1,12 @@
+{
+  "name": "Browser Ghost",
+  "version": "0.0.1",
+  "manifest_version":2,
+  "description": "Invite a ghost to haunt your browser",
+  "homepage_url": "http://www.mattrodigheri.com",
+  "content_scripts": [ {
+    "js": [ "jquery.min.js", "script.js"],
+    "matches": [ "http://*/*", "https://*/*"]
+  }
+]
+}
