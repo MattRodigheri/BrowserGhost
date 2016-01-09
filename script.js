@@ -3,7 +3,7 @@
     $ghost = $('<div/>').css({
         'width':'236px',
         'height':'279px',
-        'background-image':"url('http://www.mattrodigheri.com/ghost.gif')",
+        'background-image':"url('https://openmerchantaccount.com/img2/ghost.gif')",
         'background-size':'236px 279px'
     });
 
